@@ -31,10 +31,10 @@ A home page é  composta por quatro cards a saber:
   <li>Formaturas</li>
   <li>Confraternizações</li>
 </ul>
-Cada card é composto pelo título, uma imagem representativa e nos cards referentesaos eventos é mostrado um ícone verde quando bebidas foram adicionadas.
-Um link presente no centro do card direciona o usuário para a página desejada.
+Cada card é composto pelo título, uma imagem representativa e nos cards referentes aos eventos, é mostrado um ícone verde indicando que bebidas foram adicionadas.
+Um link presente no centro do card direciona o usuário para a página do evento.
 
-Presente em todas as páginas está um cabeçalho superior que indicao nome da página em que o usuário se encontra. Possui também um link que aponta para a Home Page do aplicativo.
+Presente em todas as páginas está um cabeçalho superior que indica o nome da página em que o usuário se encontra. Possui também um link que aponta para a Home Page do aplicativo.
 
 <h2 id="use">Como utilizar</h2>
 
@@ -58,12 +58,12 @@ Presente em todas as páginas está um cabeçalho superior que indicao nome da p
 
 <h3>Página de eventos</h3>
 
-Ao voltar para a Home Page os eventos que tiveram bebidas adicionadas estarão com seus cards marcados por um ícone verde indicado a presença de itens adicionados
-Ao clicar no link presente no card o usuário é direcionado à página escolhida onde são exibidas as bebidas adicionadas pelos seus respectivos cards.
+Ao voltar para a Home Page os eventos que tiveram bebidas adicionadas estarão com seus cards marcados por um ícone verde.
+Ao clicar no link presente no card o usuário é direcionado à página escolhida, onde são exibidas as bebidas adicionadas pelos seus respectivos cards.
 Cada card presente em uma página de evento possui um botão <b>DEL</b> para remover a respectiva bebida da listagem.
   
 <h2 id="status">Status do Projeto</h2>
-Projeto já finalizado e funcional
+Projeto já finalizado e funcional.
   
 <h2 id="deploy">Link do deploy com o aplicativo funcional</h2>
 <a href="https://events-adm-gules.vercel.app/">Events-adm</a>
@@ -71,7 +71,10 @@ Projeto já finalizado e funcional
 <h2 id="tech">🛠 Tecnologias</h2>
 <ul>
   <li>React</li>
-  <li>Node.js</li>  
+  <li>Context API</li>
+  <li>JavaScript</li> 
+  <li>Styled Components</li>
+  <li>React Router Dom</li>
 </ul>
 
 <h2 id="author">Autor</h2>
