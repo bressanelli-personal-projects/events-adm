@@ -60,7 +60,7 @@ Presente em todas as páginas está um cabeçalho superior que indicao nome da p
 
 Ao voltar para a Home Page os eventos que tiveram bebidas adicionadas estarão com seus cards marcados por um ícone verde indicado a presença de itens adicionados
 Ao clicar no link presente no card o usuário é direcionado à página escolhida onde são exibidas as bebidas adicionadas pelos seus respectivos cards.
-Cada card presente em uma página de evento possui um botão <b>DEL<b/> para remover a respectiva bebida da listagem.
+Cada card presente em uma página de evento possui um botão <b>DEL</b> para remover a respectiva bebida da listagem.
   
 <h2 id="status">Status do Projeto</h2>
 Projeto já finalizado e funcional
